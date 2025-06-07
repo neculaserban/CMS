@@ -1,0 +1,704 @@
+[
+    {
+        "Manufacturer:": "Product Name:",
+        "Mindray": "BENEVISION CMS",
+        "Philips": "IntelliVue Information Center iX",
+        "GE": "CareScape Central Station",
+        "Draeger": "Infinity Central Station Wide",
+        "Spacelab": "Xhibit",
+        "Nihon Kohden": "CNS-9101"
+    },
+    {
+        "Manufacturer:": "Max no./display",
+        "Mindray": "64",
+        "Philips": "32",
+        "GE": "16",
+        "Draeger": "16",
+        "Spacelab": "16, Max resolution supported :",
+        "Nihon Kohden": "24"
+    },
+    {
+        "Manufacturer:": "Max no./central station",
+        "Mindray": " 64 per WS / VS and Hardware CMS",
+        "Philips": "32",
+        "GE": "64",
+        "Draeger": "64 , 32 in front, 32 in background",
+        "Spacelab": "48",
+        "Nihon Kohden": "48"
+    },
+    {
+        "Manufacturer:": "Max no of beds per virtual CMS",
+        "Mindray": "600",
+        "Philips": "1600",
+        "GE": "?",
+        "Draeger": "N/A",
+        "Spacelab": "?",
+        "Nihon Kohden": "?"
+    },
+    {
+        "Manufacturer:": "Type",
+        "Mindray": "4 ordinary displays with 1280×1024 resolution\n4 widescreen displays with 1920×1080 resolution\nSupport single 4K widescreen with 3840X2160 resolution\n(recommended displays: 55 inches or above with aspect ratio of 16:9)\nSupport touchscreen",
+        "Philips": "Flat-panel LCD Touch or not , 1280 x 1024; larger display sizes require higher resolutions (1920 x 1080, 2560 x 1440, 2560 x 1600)",
+        "GE": "Wide Flat-panel touch\nor Wide Panel PC touch",
+        "Draeger": "22\"\"Touch Flat-panel LCD",
+        "Spacelab": "22\"\"Touch Flat-panel LCD",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "resol 1920*1200\"",
+        "Mindray": "Flat-panel LCD, Touch, 24\"\" (resolution 1920x1080)",
+        "Philips": "",
+        "GE": "",
+        "Draeger": "",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Single or dual displays",
+        "Mindray": "1, 2, 3 or 4",
+        "Philips": "Single and dual",
+        "GE": "Single or dual",
+        "Draeger": "Single or dual",
+        "Spacelab": "1, 2, 3 or 4",
+        "Nihon Kohden": "Single or dual"
+    },
+    {
+        "Manufacturer:": "Size,(in)",
+        "Mindray": "23\"\" standard, can offer larger one",
+        "Philips": "19\"\"up to 42\"\"",
+        "GE": "21\"\"",
+        "Draeger": "22\"\" (1680x1050)",
+        "Spacelab": "22\"\"",
+        "Nihon Kohden": "24\"\""
+    },
+    {
+        "Manufacturer:": "Remote Display and Control",
+        "Mindray": "WorkStation 8 / 16 / 32 / 64 beds (exclusive app running on Windows OS)\nWorkStation Lite (not exclusive app running on Windows OS - TM80 not supported)",
+        "Philips": "Yes, 32 beds",
+        "GE": "Only Display, no control capabilities",
+        "Draeger": "Only Display, no control capabilities",
+        "Spacelab": "Yes",
+        "Nihon Kohden": "yes"
+    },
+    {
+        "Manufacturer:": "Non-interactive (slave)",
+        "Mindray": "ViewStation, 64 beds\ncan print, review ",
+        "Philips": "Yes, 32 beds",
+        "GE": "Yes via video splitter (Mirror)",
+        "Draeger": "Yes via video splitter",
+        "Spacelab": "Yes via video splitter",
+        "Nihon Kohden": "yes"
+    },
+    {
+        "Manufacturer:": "Remote viewing (outside hospital)",
+        "Mindray": "Windows App - CMSViewer\nBrowser - WebServer\nMobile App - MobileViewer",
+        "Philips": "Yes (web access)",
+        "GE": "Yes with mobile Viewer suite ( Web Viewer, Pocket and cellular viewer)",
+        "Draeger": "Patient Watch (?)",
+        "Spacelab": "Yes",
+        "Nihon Kohden": "yes ( net connect server)"
+    },
+    {
+        "Manufacturer:": "Mobile App",
+        "Mindray": "iOS and Android - MobileViewer\nAndroid - AlarmGUARD",
+        "Philips": "iOS and Android",
+        "GE": "IOS /Android ?",
+        "Draeger": "No",
+        "Spacelab": "?",
+        "Nihon Kohden": "IOS"
+    },
+    {
+        "Manufacturer:": "Multiview web access",
+        "Mindray": "Yes (64 beds? - to be released in Q2 2025)",
+        "Philips": "Yes (up to 32 on one browser page)",
+        "GE": "yes up to 16 on one web window",
+        "Draeger": "No",
+        "Spacelab": "?",
+        "Nihon Kohden": "yes"
+    },
+    {
+        "Manufacturer:": "Pairing solution : more than one equipment per sector",
+        "Mindray": "Yes - max no to be checked\nPM + Vent  / Ane + Pumps\nDefib + Vent / Ane + Pumps",
+        "Philips": "Yes, up to 5",
+        "GE": "Yes , only tele paired with monitor",
+        "Draeger": "No",
+        "Spacelab": "?",
+        "Nihon Kohden": "?"
+    },
+    {
+        "Manufacturer:": "Max no. per patient sector",
+        "Mindray": "19",
+        "Philips": "50 (configurable)",
+        "GE": "16 ?",
+        "Draeger": "12",
+        "Spacelab": "All",
+        "Nihon Kohden": "8"
+    },
+    {
+        "Manufacturer:": "Max no. per individual patient display",
+        "Mindray": "26",
+        "Philips": "50 (configurable)",
+        "GE": "17 ?",
+        "Draeger": "24",
+        "Spacelab": "All",
+        "Nihon Kohden": "56"
+    },
+    {
+        "Manufacturer:": "Max no./patient sector (main display)",
+        "Mindray": "7",
+        "Philips": "12",
+        "GE": "4",
+        "Draeger": "4",
+        "Spacelab": "2, if in 16 patients",
+        "Nihon Kohden": "16"
+    },
+    {
+        "Manufacturer:": "Max no. (individual patient display)",
+        "Mindray": "12",
+        "Philips": "32 (all)",
+        "GE": "8?",
+        "Draeger": "8 + 12 for 12L ECG",
+        "Spacelab": "All",
+        "Nihon Kohden": "16"
+    },
+    {
+        "Manufacturer:": "Graphical",
+        "Mindray": "Yes",
+        "Philips": "Yes , split trends and ST-MAP within sector",
+        "GE": "Yes , split trends within sector",
+        "Draeger": "Yes",
+        "Spacelab": "Yes",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Tabular",
+        "Mindray": "Yes",
+        "Philips": "Yes",
+        "GE": "yes",
+        "Draeger": "Yes",
+        "Spacelab": "Yes",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Length of time",
+        "Mindray": "10 days",
+        "Philips": "≤7 days",
+        "GE": "72H (3days)",
+        "Draeger": "5 days max, depending on bedside monitor",
+        "Spacelab": "4 days max (depends of the connected monitor)",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Trend upload from monitor (once reconnected to network)",
+        "Mindray": "Yes",
+        "Philips": "Yes (Trend upload , 8H)",
+        "GE": "Yes, needed a dedicated server",
+        "Draeger": "?",
+        "Spacelab": "No",
+        "Nihon Kohden": "yes"
+    },
+    {
+        "Manufacturer:": "Full disclosure upload from transport monitor (once replug to host monitor)",
+        "Mindray": "No (Event only)",
+        "Philips": "No",
+        "GE": "No",
+        "Draeger": "No",
+        "Spacelab": "No",
+        "Nihon Kohden": "Yes"
+    },
+    {
+        "Manufacturer:": "ARRHYTHMIA ANALYSIS",
+        "Mindray": "24 arrhythmia alarms",
+        "Philips": "25 enhanced arrhythmia alarms",
+        "GE": "",
+        "Draeger": "",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Bedside monitors",
+        "Mindray": "Yes : HR, ST, PVCS, QT/QTc, RR, SpO , PR, NIBP, TEMP, IBP, CO, EtCO , Multi-gas, O , N O, CCO, ICG, RM, BIS, tcGas, EEG, NMT, rSO2",
+        "Philips": "Yes",
+        "GE": "yes",
+        "Draeger": "yes",
+        "Spacelab": "Yes",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Telemetry",
+        "Mindray": "Yes",
+        "Philips": "Yes",
+        "GE": "yes",
+        "Draeger": "Yes",
+        "Spacelab": "Yes",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "No. of leads analyzed simultaneously",
+        "Mindray": "2 if Mindray\n1 if Mortara (UHF Telemetry only)",
+        "Philips": "2",
+        "GE": "4",
+        "Draeger": "2 max",
+        "Spacelab": "2 for bedside, 3 for Xhibit telem",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "12L ANALYSIS",
+        "Mindray": "Yes",
+        "Philips": "yes up to 100/patients",
+        "GE": "Yes",
+        "Draeger": "Yes ( Glasgow algorithm)",
+        "Spacelab": "",
+        "Nihon Kohden": "yes up to 200/patients, kept for 5 days max"
+    },
+    {
+        "Manufacturer:": "Bedside monitors",
+        "Mindray": "Yes",
+        "Philips": "Yes",
+        "GE": "Yes",
+        "Draeger": "yes",
+        "Spacelab": "Yes",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Telemetry",
+        "Mindray": "Yes",
+        "Philips": "Yes",
+        "GE": "Yes",
+        "Draeger": "Yes",
+        "Spacelab": "Yes",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "No. of leads analyzed from bedside monitors",
+        "Mindray": "≤12",
+        "Philips": "12",
+        "GE": "≤12",
+        "Draeger": "12 l max",
+        "Spacelab": "12",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "No. of leads analyzed from telemetry",
+        "Mindray": "12 (from 6 leads)",
+        "Philips": "12 (HEXAD, EASI)",
+        "GE": "≤8",
+        "Draeger": "12 L TruST",
+        "Spacelab": "",
+        "Nihon Kohden": "8"
+    },
+    {
+        "Manufacturer:": "Ventilator parameters ( alarms settings ) + PV loop",
+        "Mindray": "No",
+        "Philips": "yes from EC10 or Spiro Module,No PV loop",
+        "GE": "yes from Unity Network or Spiro Module,No PV loop",
+        "Draeger": "Yes: Vent Central app",
+        "Spacelab": "",
+        "Nihon Kohden": "No"
+    },
+    {
+        "Manufacturer:": "QRS tone for one selected patient",
+        "Mindray": "No",
+        "Philips": "No",
+        "GE": "No",
+        "Draeger": "No",
+        "Spacelab": "No",
+        "Nihon Kohden": "Yes"
+    },
+    {
+        "Manufacturer:": "Bedside monitors/telemetry",
+        "Mindray": "Yes/Yes",
+        "Philips": "Yes/Yes",
+        "GE": "yes/yes",
+        "Draeger": "Yes/Yes",
+        "Spacelab": "Yes/Yes",
+        "Nihon Kohden": "Yes/yes"
+    },
+    {
+        "Manufacturer:": "Type",
+        "Mindray": "All",
+        "Philips": "Physiologic and events selectable",
+        "GE": "Arrhythmia, ST, and Sample",
+        "Draeger": "Arrhythmia and alarm events, manual",
+        "Spacelab": "Arrhythmia, ST, OxyCRG",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Max no. of events",
+        "Mindray": "3000",
+        "Philips": "Unlimited, all events sent from connected devices are stored",
+        "GE": "2000/patient",
+        "Draeger": "1000 / patients",
+        "Spacelab": "Unlimited needs ICS",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Length of time",
+        "Mindray": "Unlimited",
+        "Philips": "≤7 Days",
+        "GE": "NA; event storage treated on a first-in first-out basis; limits dependent on connected device(s)",
+        "Draeger": "5 days",
+        "Spacelab": "Unlimited needs ICS",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Length of time",
+        "Mindray": "10 Days 256 waves : 4 waves/patients max",
+        "Philips": "≤7 Days all monitored waves (24 waves /patients)",
+        "GE": "≤ 6 days",
+        "Draeger": "5 days",
+        "Spacelab": "3 days",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "No. of parameters stored",
+        "Mindray": "All",
+        "Philips": "Unlimited, all parameters sent from connected devices are stored",
+        "GE": "9 waves",
+        "Draeger": "Patient source depending",
+        "Spacelab": "All",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "No. of waveforms stored",
+        "Mindray": "All",
+        "Philips": "≤32/patient",
+        "GE": "ECG12L + Resp/Sp02/IBP",
+        "Draeger": "16 max/patient",
+        "Spacelab": "All",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Diagnose 12L",
+        "Mindray": "Yes",
+        "Philips": "Yes",
+        "GE": "? No",
+        "Draeger": "Yes",
+        "Spacelab": "Yes",
+        "Nihon Kohden": "Yes"
+    },
+    {
+        "Manufacturer:": "OxyCRG waveform",
+        "Mindray": "Yes, up to 100 events ( not full disclosure)",
+        "Philips": "No",
+        "GE": "? No",
+        "Draeger": "No",
+        "Spacelab": "",
+        "Nihon Kohden": "?"
+    },
+    {
+        "Manufacturer:": "Patient Data Storage",
+        "Mindray": "Unlimited Storage",
+        "Philips": "Unlimited Storage",
+        "GE": "",
+        "Draeger": "N/A",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Databases",
+        "Mindray": "Proprietary",
+        "Philips": "MS SQL Enterprise",
+        "GE": "",
+        "Draeger": "",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Type",
+        "Mindray": "All",
+        "Philips": "High and low for all monitored parameters and arrhythmias",
+        "GE": "Varies by parameter",
+        "Draeger": "Audible and visual",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Priority/levels",
+        "Mindray": "Yes/5. they can define the alarms level.",
+        "Philips": "Cyan*, yellow**, red***, technical",
+        "GE": "Physiological levels: crisis, warning, advisory, message; technical levels: system warning, system advisory, system message",
+        "Draeger": "Advisory (low), serious (medium), life-threatening (high)",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "User defined",
+        "Mindray": "Yes",
+        "Philips": "Selectable on or off, except red alarms",
+        "GE": "Yes",
+        "Draeger": "Yes for arrhythmia alarms",
+        "Spacelab": "Yes",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Silence active alarm",
+        "Mindray": "Yes",
+        "Philips": "Yes",
+        "GE": "Yes",
+        "Draeger": "Yes",
+        "Spacelab": "Yes",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Silence duration, sec",
+        "Mindray": "Yes",
+        "Philips": "Varies Settable ( from 60 to infinite)",
+        "GE": "Typically 60, determined by monitor",
+        "Draeger": "120",
+        "Spacelab": "User configurable: 45/180/next alarm",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "All-alarm suspend",
+        "Mindray": "Yes",
+        "Philips": "Yes",
+        "GE": "No",
+        "Draeger": "Yes for telemetry",
+        "Spacelab": "Yes",
+        "Nihon Kohden": "No"
+    },
+    {
+        "Manufacturer:": "Suspend duration, sec",
+        "Mindray": "User configurable",
+        "Philips": "180 for telemetry, set at bedside",
+        "GE": "NA",
+        "Draeger": "up to 5 min",
+        "Spacelab": "No",
+        "Nihon Kohden": "?"
+    },
+    {
+        "Manufacturer:": "Remote settings",
+        "Mindray": "Complete access for monitor alarm settings",
+        "Philips": "Complete access for monitor alarm settings",
+        "GE": "Yes",
+        "Draeger": "Yes",
+        "Spacelab": "Yes",
+        "Nihon Kohden": "yes"
+    },
+    {
+        "Manufacturer:": "Alarms activity assessment",
+        "Mindray": "No",
+        "Philips": "Yes: Alarm summary app",
+        "GE": "No",
+        "Draeger": "No",
+        "Spacelab": "No",
+        "Nihon Kohden": "Yes : multi patient alarms Events with dedicated alarm summary equivalent"
+    },
+    {
+        "Manufacturer:": "Data type",
+        "Mindray": "Not specified",
+        "Philips": "Trend, alarm, event, wave, unit",
+        "GE": "FD, vital signs, graphic trends, limits, calipers, event directory, more",
+        "Draeger": "Simultaneous ECG, full disclosure (strip, hour, 24-hour, shift, selected strip, graphical trend, patient status, caliper report), event disclosure (strip shift, graphical trend, selected events), Vent Central, 12-lead rest ECG",
+        "Spacelab": "Full disclosure, 12-lead ECG, trends (graphic and tabular), strips;",
+        "Nihon Kohden": "?"
+    },
+    {
+        "Manufacturer:": "Export format",
+        "Mindray": "printer, PDF, XML for wave,",
+        "Philips": "PCL5/6 printer , PDF, PNG",
+        "GE": "?",
+        "Draeger": "Vary by solution",
+        "Spacelab": "Print real time or to share file in pdf format",
+        "Nihon Kohden": "JPEG"
+    },
+    {
+        "Manufacturer:": "Drug",
+        "Mindray": "Yes",
+        "Philips": "Yes, review IVPM report only, using PDF reviewer",
+        "GE": "?",
+        "Draeger": "?",
+        "Spacelab": "?",
+        "Nihon Kohden": "No"
+    },
+    {
+        "Manufacturer:": "Hemodynamics",
+        "Mindray": "Yes",
+        "Philips": "Yes, review IVPM report only, using PDF reviewer",
+        "GE": "?",
+        "Draeger": "?",
+        "Spacelab": "?",
+        "Nihon Kohden": "Yes"
+    },
+    {
+        "Manufacturer:": "Oxygenation",
+        "Mindray": "Yes",
+        "Philips": "Yes, review IVPM report only, using PDF reviewer",
+        "GE": "?",
+        "Draeger": "?",
+        "Spacelab": "?",
+        "Nihon Kohden": "No"
+    },
+    {
+        "Manufacturer:": "Ventilation",
+        "Mindray": "Yes",
+        "Philips": "Yes, review IVPM report only, using PDF reviewer",
+        "GE": "?",
+        "Draeger": "?",
+        "Spacelab": "?",
+        "Nihon Kohden": "No"
+    },
+    {
+        "Manufacturer:": "Renal",
+        "Mindray": "Yes",
+        "Philips": "No",
+        "GE": "?",
+        "Draeger": "?",
+        "Spacelab": "?",
+        "Nihon Kohden": "No"
+    },
+    {
+        "Manufacturer:": "Operating system",
+        "Mindray": "Windows 10 (W11 expected H2 2025)\nWindows Server 2022",
+        "Philips": "Windows 10/Win Server 2016",
+        "GE": "win 7 embedded",
+        "Draeger": "Linux",
+        "Spacelab": "Windows",
+        "Nihon Kohden": "Windows 7 SP1"
+    },
+    {
+        "Manufacturer:": "Database management system",
+        "Mindray": "Proprietary",
+        "Philips": "Microsoft SQL",
+        "GE": "NA",
+        "Draeger": "Versant, optional RAID 1",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Memory",
+        "Mindray": "Q2 2025 release",
+        "Philips": "4 GB RAM (central); 12 GB server",
+        "GE": "?",
+        "Draeger": "> 1GB",
+        "Spacelab": "",
+        "Nihon Kohden": "2 GB"
+    },
+    {
+        "Manufacturer:": "Central Station Data Storage",
+        "Mindray": "RAID",
+        "Philips": "SSD",
+        "GE": "SSD",
+        "Draeger": "",
+        "Spacelab": "",
+        "Nihon Kohden": "SSD"
+    },
+    {
+        "Manufacturer:": "Communication protocols",
+        "Mindray": "Ethernet, TCP/IP (Broadcast or Multicast)",
+        "Philips": "Ethernet, TCP/IP, Multicast (Unicast iX surv to Server)",
+        "GE": "Ethernet, TCP/IP (Broadcast only°",
+        "Draeger": "TCP/IP, IP Multicast",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Architecture",
+        "Mindray": "Distributed or client/server",
+        "Philips": "Client/server",
+        "GE": "Peer to Peer",
+        "Draeger": "Client-server for telemetry\nDistributed for Monitor",
+        "Spacelab": "Distributed",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "Max no. of central stations on single network",
+        "Mindray": "Per network capacity, N",
+        "Philips": "250",
+        "GE": "Max 15",
+        "Draeger": "256",
+        "Spacelab": "Varies",
+        "Nihon Kohden": "unlimited"
+    },
+    {
+        "Manufacturer:": "Max no. of devices on single network",
+        "Mindray": "3000",
+        "Philips": "9600 (1600*6)",
+        "GE": "1023 max",
+        "Draeger": "1024",
+        "Spacelab": "1000",
+        "Nihon Kohden": "1000"
+    },
+    {
+        "Manufacturer:": "VMware supported",
+        "Mindray": "Y",
+        "Philips": "Y",
+        "GE": "?",
+        "Draeger": "",
+        "Spacelab": "Y",
+        "Nihon Kohden": "?"
+    },
+    {
+        "Manufacturer:": "Layer 3 supported",
+        "Mindray": "Y",
+        "Philips": "Y",
+        "GE": "?",
+        "Draeger": "",
+        "Spacelab": "Y",
+        "Nihon Kohden": "?"
+    },
+    {
+        "Manufacturer:": "Cyber security",
+        "Mindray": "Refer to CyberSecurity latest doc",
+        "Philips": "OS patching/Nod Ident/Encryption",
+        "GE": "",
+        "Draeger": "",
+        "Spacelab": "",
+        "Nihon Kohden": "N (no OS patching, no encryption, no node identification"
+    },
+    {
+        "Manufacturer:": "HL7 outbound (vital signs)",
+        "Mindray": "Yes, no central station needed, or the gateway can be included into the central station",
+        "Philips": "Yes (numeric + alarms)",
+        "GE": "Yes, via CARESCAPE Gateway",
+        "Draeger": "Yes, via Infinity Gateway",
+        "Spacelab": "Yes , via ICS",
+        "Nihon Kohden": "Yes need gateway"
+    },
+    {
+        "Manufacturer:": "ECG data management system",
+        "Mindray": "Yes (via eGateway)",
+        "Philips": "Yes ECG export for Zymed Holter + ECG order management",
+        "GE": "Yes",
+        "Draeger": "Yes, via Infinity Gateway. 12L ECG",
+        "Spacelab": "Yes , via ICS",
+        "Nihon Kohden": "Yes need gateway same than HL7"
+    },
+    {
+        "Manufacturer:": "HL7 inbound (ADT)",
+        "Mindray": "Yes via eGatway (CMS not mandatory but it provides extra features)",
+        "Philips": "Yes",
+        "GE": "Yes, via CARESCAPE Gateway",
+        "Draeger": "Yes, via Infinity Gateway",
+        "Spacelab": "Yes , via ICS",
+        "Nihon Kohden": "Yes need gateway same than HL7"
+    },
+    {
+        "Manufacturer:": "Wave Export",
+        "Mindray": "Yes - Strip Export (via eGateway)",
+        "Philips": "Yes :\nStrip export ( no gateway needed)\nData Warehouse ( WSQL Data base)",
+        "GE": "Yes, near real time export Via CARESCAPE Gateway , XML format",
+        "Draeger": "Yes Win Access API ( C and C++ script)",
+        "Spacelab": "?",
+        "Nihon Kohden": "?"
+    },
+    {
+        "Manufacturer:": "",
+        "Mindray": "",
+        "Philips": "",
+        "GE": "",
+        "Draeger": "",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    },
+    {
+        "Manufacturer:": "",
+        "Mindray": "",
+        "Philips": "",
+        "GE": "",
+        "Draeger": "",
+        "Spacelab": "",
+        "Nihon Kohden": ""
+    }
+]
